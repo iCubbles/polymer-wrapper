@@ -1,0 +1,17 @@
+{
+    "name": "polymer-1.2.3",
+    "version": "0.0.0",
+
+    "main": "polymer.html.html",
+    "license": "MIT",
+
+    "ignore": [
+        "/.*",
+        "/test/",
+        "/demo/"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#1.2.3"
+    }
+
+}
