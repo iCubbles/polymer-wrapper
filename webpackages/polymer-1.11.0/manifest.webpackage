@@ -1,0 +1,33 @@
+{
+  "name": "polymer-1.11.0",
+  "groupId": "",
+  "version": "1.0.0",
+  "modelVersion": "9.1.1",
+  "docType": "webpackage",
+  "author": {
+    "name": "Edwin Gamboa",
+    "email": "edwingamboa355@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "library",
+    "polymer",
+    "3rd-party"
+  ],
+  "man": [],
+  "artifacts": {
+    "apps": [],
+    "elementaryComponents": [],
+    "compoundComponents": [],
+    "utilities": [
+      {
+        "artifactId": "polymer",
+        "description": " Wrap the polymer library version 1.11.0",
+        "resources": [
+          "vendor/polymer/polymer.html"
+        ],
+        "dependencies": []
+      }
+    ]
+  }
+}
